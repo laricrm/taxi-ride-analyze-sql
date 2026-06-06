@@ -10,10 +10,4 @@ Investigate trip patterns
 Test hypotheses about ride duration
 
 Technologies Used - 
-SQL
-PostgreSQL
-Python
-Pandas
-Matplotlib
-SciPy
-Jupyter Notebook
+SQL, PostgreSQL, Python,Pandas, Matplotlib, SciPy and Jupyter Notebook.
